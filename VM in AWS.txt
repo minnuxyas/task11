@@ -1,0 +1,10 @@
+1.sign in to the free AWS that have been already created.
+2. Choose an Amazon Machine Image (AMI) from EC2 and select an image like Amazon Linux 2 AMI (HVM), SSD Volume Type      or Ubuntu Server 20.04 LTS.
+3. Choose an Instance Type(t2medium) and Configure Instance Details.
+4.Configure Security Group.
+5.Now launch it and we'll be prompted to create or use an existing SSH key pair. Create a new key pair.
+6.Connect to our EC2 Instance by selecting our running instance, and click Connect.
+
+public IPv4  address: 52.235.15.75
+private IPv4 address:172.31.22.163
+
